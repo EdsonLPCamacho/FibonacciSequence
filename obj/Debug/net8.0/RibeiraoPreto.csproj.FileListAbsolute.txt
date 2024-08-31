@@ -1,0 +1,14 @@
+C:\Internship\RibeiraoPreto\bin\Debug\net8.0\RibeiraoPreto.exe
+C:\Internship\RibeiraoPreto\bin\Debug\net8.0\RibeiraoPreto.deps.json
+C:\Internship\RibeiraoPreto\bin\Debug\net8.0\RibeiraoPreto.runtimeconfig.json
+C:\Internship\RibeiraoPreto\bin\Debug\net8.0\RibeiraoPreto.dll
+C:\Internship\RibeiraoPreto\bin\Debug\net8.0\RibeiraoPreto.pdb
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.AssemblyInfoInputs.cache
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.AssemblyInfo.cs
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.csproj.CoreCompileInputs.cache
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.dll
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\refint\RibeiraoPreto.dll
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.pdb
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\RibeiraoPreto.genruntimeconfig.cache
+C:\Internship\RibeiraoPreto\obj\Debug\net8.0\ref\RibeiraoPreto.dll
